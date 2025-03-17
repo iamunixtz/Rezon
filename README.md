@@ -32,6 +32,11 @@
 | **Report Generation**               | *Generates detailed **HTML or PDF reports** with host details and geographical mapping (via Folium) for visual representation of discovered assets.*                                                         |
 | **Real-time Logging & Notifications**| *Displays colored log messages with timestamps for progress updates, errors, and successes to facilitate effective monitoring of the scanning process.*                                                 |
 
+## Coming Soon 
+
+![tool](images/rezontool.png)
+
+
 
 ## Installation of Rezon [Linux-Based]
 
